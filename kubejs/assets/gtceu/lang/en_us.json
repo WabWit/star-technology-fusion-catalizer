@@ -617,5 +617,11 @@
     "gtceu.molten_destabilizing": "Molten Destabilization",
     "block.gtceu.molten_destabilizer": "Molten Destabilizer Controller",
     "gtceu.latex_plantation": "Latex Plantation",
-    "block.gtceu.latex_plantation": "Latex Plantation Controller"
+    "block.gtceu.latex_plantation": "Latex Plantation Controller",
+    
+    "block.gtceu.akreyrium_phase_binder": "Akreyrium Phase Binder Controller",
+    "gtceu.akreyrium_phase_binder": "Akreyrium Phase Binding",
+
+    "material.gtceu.quantacatalyst_x9": "Quantacatalyst-X9",
+    "material.gtceu.crystaflux": "Crystaflux"
 }
