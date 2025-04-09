@@ -1,4 +1,6 @@
 # Star Technology(StarT for short)
+
+This is a FORK of the original
 <a href="https://trulyno.github.io/StarT-docs/">Official Wiki</a>
 <p style="text-align: center;">🚀 Minecraft 1.20.1 | ⚙️ GregTech CEu Modern | 🛠️ Work in Progress</p>
 <p style="text-align: center;">Minimum RAM: 4GB | Recommended: 6GB+</p>
@@ -26,3 +28,6 @@ Inspired by legendary **GregTech modpacks** like _Nomifactory, Gregtech: New Hor
 
 💬 [**\[Discord Server\]**](https://discord.gg/startechnology) – Share your progress, get support, and chat with fellow players and devs!  
 🐞 [**\[Issue Tracker\]**](https://github.com/trulyno/star-technology/issues) – Report bugs & help us improve the modpack!
+
+
+![Akreyrium Phase Binder](https://github.com/WabWit/star-technology-fusion-catalizer/images/Akreyrium_Phase_Binder.png)
