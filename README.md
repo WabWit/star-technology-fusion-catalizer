@@ -29,5 +29,31 @@ Inspired by legendary **GregTech modpacks** like _Nomifactory, Gregtech: New Hor
 💬 [**\[Discord Server\]**](https://discord.gg/startechnology) – Share your progress, get support, and chat with fellow players and devs!  
 🐞 [**\[Issue Tracker\]**](https://github.com/trulyno/star-technology/issues) – Report bugs & help us improve the modpack!
 
+#Changes
+- Added Quantacatalyst-X9
+- Added Crystaflux (ingredient for Quantacatalyst)
+- Added new catalyzed fusion outputs (1.2 multiplier when using the catalyst)
 
-![Akreyrium Phase Binder](https://github.com/WabWit/star-technology-fusion-catalizer/tree/main/ImagesAkreyrium_Phase_Binder.png)
+Akreyrium Phase Binder
+![Akreyrium Phase Binder](/Images/Akreyrium_Phase_Binder.png?raw=true)
+
+Akreyrium Phase Binder Research
+![Akreyrium Phase Binder Recipe Research](/Images/Phase_Binder_Recipe_Research.png?raw=true)
+
+Akreyrium Phase Binder Recipe
+![Akreyrium Phase Binder Recipe](/Images/Phase_Binder_Recipe.png?raw=true)
+
+Quantacatalyst Recipe Use
+![Quantacatalyst_Recipe_Use](/Images/Quantacatalyst_Recipe_Use.png?raw=true)
+
+Quantacatalyst In Action
+![Akreyrium Phase Binder](/Images/Quantacatalyst_In_Action.png?raw=true)
+
+Quantacatalyst Recipe
+![Akreyrium Phase Binder](/Images/Quantacatalyst_Recipe.png?raw=true)
+
+Crystaflux Recipe
+![Akreyrium Phase Binder](/Images/Crystaflux_Recipe.png?raw=true)
+
+Crystaflux being made
+![Akreyrium Phase Binder](/Images/Crystaflux_In_Action.png?raw=true)
